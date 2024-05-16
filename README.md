@@ -28,7 +28,7 @@ http://localhost/public_html/RealEstateApp/public/
 
 // viewing offers
 ![image](https://github.com/JohnMorphy/realEstateAppPHP/assets/92916894/dda2a7bb-cd92-422d-9e24-daa7ecf5d8cf)
-![image](https://github.com/JohnMorphy/realEstateAppPHP/assets/92916894/30fd3b88-5399-4303-abb6-d81c5b8fd590)
+![image](https://github.com/JohnMorphy/realEstateAppPHP/assets/92916894/bab10288-bce1-4109-b991-6550e0b51300)
 
 // adding offers - allows for uploading images
 ![image](https://github.com/JohnMorphy/realEstateAppPHP/assets/92916894/f4b5baaf-8f7f-491f-b354-b230ecce7fdd)
