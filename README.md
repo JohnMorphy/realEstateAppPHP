@@ -20,6 +20,9 @@ In the root of the project cmd command/integrated vs studio terminal:
 composer install
 php artisan key:generate
 php artisan migrate
+php artisan make:seeder DatabaseSeeder 
+//ads user roles (crucial) and two example database users: regular user: user password123; admin: admin password123
 
 after starting apache in xammp, main page should be available at:
 http://localhost/public_html/RealEstateApp/public/
+
